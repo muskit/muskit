@@ -1,4 +1,4 @@
-![The Mario PFP that blinks.](https://media.discordapp.net/attachments/828109570568224809/828129248313212938/PNGTuber_anim.gif?height=200&width=160)
+![The Mario PFP that blinks.](https://media.discordapp.net/attachments/828109570568224809/828129248313212938/PNGTuber_anim.gif?height=200&width=140)
 
 ##  Currently building...
 
