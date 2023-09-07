@@ -1,20 +1,23 @@
-![The Mario PFP that blinks.](https://media.discordapp.net/attachments/828109570568224809/828129248313212938/PNGTuber_anim.gif?height=200&width=140)
+<p float="left">
+  <img src="https://media.discordapp.net/attachments/828109570568224809/828129248313212938/PNGTuber_anim.gif?height=200&width=140"/>
+<!--   <a href=https://muskit.net><b>my place</b></a> -->
+</p>
 
-##  Currently building...
+## 🏗️ Currently building...
 
 ### [WacK](https://github.com/muskit/WacK)
-A touchscreen-accessible rhythm game based on WACCA. Uses the Godot Engine (V4).
+A mobile rhythm game based on WACCA. Developing on the Godot Engine (v4).
 
 ### [muskit.net](https://muskit.net)
-A personal website with a trick or two up its sleeve.
+My personal website.
 
-## Currently maintaining...
+## 🔌 Currently maintaining...
 
 ### [H3VR Mod: Take and Hold Quality of Life Improvements](https://github.com/muskit/H3VR-TNH-Quality-of-Life-Improvements)
 A modification for VR game _Hot Dogs, Horseshoes, and Hand Grenades_ that adds quality-of-life features to the experience.
 
 ### [NijiHolo EN/ID Interacts](https://github.com/muskit/NijiHolo_EN_ID_Bot)
-An [X (formally Twitter) bot](https://x.com/NijiHolo_EN_ID) that highlights interactions between two of the largest Virtual YouTuber projects in the world.
+A [Twitter bot](https://twitter.com/NijiHolo_EN_ID) that highlights interactions between two of the largest Virtual YouTuber projects in the world.
 
 <!--
 **muskit/muskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
