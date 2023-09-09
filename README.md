@@ -6,7 +6,7 @@
 ## 🏗️ Currently building...
 
 ### [WacK](https://github.com/muskit/WacK)
-A mobile rhythm game based on WACCA. Developing on the Godot Engine (v4).
+A mobile rhythm game based on WACCA, a now defunct arcade rhythm game. Developing in the Godot Engine (v4).
 
 ### [muskit.net](https://muskit.net)
 My personal website.
