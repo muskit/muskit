@@ -14,11 +14,11 @@ My personal website.
 ## 🔌 Currently maintaining...
 
 ### [H3VR Mod: Take and Hold Quality of Life Improvements](https://github.com/muskit/H3VR-TNH-Quality-of-Life-Improvements)
-A [modification](https://h3vr.thunderstore.io/package/muskit/TNH_Quality_of_Life_Improvements/) for VR game [_Hot Dogs, Horseshoes, and Hand Grenades_](http://h3vr.com/) that adds various quality of life features.
+A [modification](https://h3vr.thunderstore.io/package/muskit/TNH_Quality_of_Life_Improvements/) for VR game [_Hot Dogs, Horseshoes, and Hand Grenades_](http://h3vr.com/) that adds various quality of life features.  
 ![Modpage thumbnail](https://raw.githubusercontent.com/muskit/H3VR-TNH-Quality-of-Life-Improvements/main/Assets/thumbnail%20better.png)
 
 ### [NijiHolo EN/ID Interacts](https://github.com/muskit/NijiHolo_EN_ID_Bot)
-A [Twitter bot](https://twitter.com/NijiHolo_EN_ID) that highlights interactions between two of the largest Virtual YouTuber projects in the world.
+A [Twitter bot](https://twitter.com/NijiHolo_EN_ID) that highlights interactions between two of the largest Virtual YouTuber projects in the world.  
 ![Screenshot_20230912_235245](https://github.com/muskit/muskit/assets/15199219/0359fb26-8a48-4698-9b78-66d7d852099e)
 
 
