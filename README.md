@@ -6,10 +6,10 @@
 ## 🏗️ Currently building...
 
 ### [WacK](https://github.com/muskit/WacK)
-A mobile rhythm game based on WACCA, a now defunct arcade rhythm game. Developing in the Godot Engine (v4).
+A mobile rhythm game based on WACCA, a now defunct arcade rhythm game. Developing in Godot Engine .NET.
 
 ### [muskit.net](https://muskit.net)
-My personal website.
+My personal website built in Svelte.
 
 ## 🔌 Currently maintaining...
 
@@ -21,20 +21,7 @@ A [modification](https://h3vr.thunderstore.io/package/muskit/TNH_Quality_of_Life
 A [Twitter bot](https://twitter.com/NijiHolo_EN_ID) that highlights interactions between two of the largest Virtual YouTuber projects in the world.  
 ![Screenshot_20230912_235245](https://github.com/muskit/muskit/assets/15199219/0359fb26-8a48-4698-9b78-66d7d852099e)
 
-
-
-
-<!--
-**muskit/muskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🕰️ Likes to mess with retro electronics (from MS-DOS computers to iPods)
+- 🕹️ Plays a lot of music games, has been into racing simulators recently
+- 💻 First experienced programming with Java and BASIC in 2014
