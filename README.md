@@ -25,4 +25,4 @@ A [Twitter bot](https://twitter.com/NijiHolo_EN_ID) that highlights interactions
 - 🕰️ Likes to mess with retro electronics (from MS-DOS computers to iPods)
 - 🎵 Listens to 2000s music (Coldplay, Avril Lavigne, Sunny Day Real Estate, Sum 41)
 - 🕹️ Loves music games (esp. at arcades), beginner to simracing
-- 💻 First experienced programming with Java (Minecraft modding) and BASIC (DSiWare "Petit Computer") in 2014
+- 👶 First experienced programming with Java (Minecraft modding) and BASIC (DSiWare "Petit Computer") in 2014
