@@ -9,7 +9,7 @@
 A mobile rhythm game based on WACCA, a now defunct arcade rhythm game. Developing in Godot Engine .NET.
 
 ### [muskit.net](https://muskit.net)
-My personal website built in Svelte.
+My personal website built in Svelte. (Warning: **not** maining a frontend developer)
 
 ## 🔌 Currently maintaining...
 
