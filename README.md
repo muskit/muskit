@@ -5,11 +5,10 @@
 
 ## 🏗️ Currently building...
 
-### [WacK](https://github.com/muskit/WacK)
-A mobile rhythm game based on WACCA, a now defunct arcade rhythm game. Developing in Godot Engine .NET.
-
 ### [muskit.net](https://muskit.net)
-My personal website built in Svelte. (Warning: **not** a frontend developer)
+My personal website built in Svelte. (Warning: **not** a frontend developer)  
+![Screenshot 2024-03-15 005226](https://github.com/muskit/muskit/assets/15199219/6c91519c-d411-4848-93c1-525fee386e81)
+
 
 ## 🔌 Currently maintaining...
 
