@@ -5,6 +5,9 @@
 
 ## 🏗️ Currently building...
 
+### A multiplayer typing game
+Coming soon...
+
 ### [muskit.net](https://muskit.net)
 My personal website built in Svelte. (Warning: **not** a frontend developer)  
 ![Screenshot 2024-03-15 005226](https://github.com/muskit/muskit/assets/15199219/6c91519c-d411-4848-93c1-525fee386e81)
