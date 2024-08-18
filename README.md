@@ -5,6 +5,9 @@
 
 ## 🏗️ Currently building...
 
+### A useful game information Discord bot
+Coming soon...
+
 ### A multiplayer typing game
 Coming soon...
 
