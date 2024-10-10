@@ -1,7 +1,8 @@
 <p float="left">
-  <img src="https://media.discordapp.net/attachments/828109570568224809/828129248313212938/PNGTuber_anim.gif?height=200&width=140"/>
+  <img src=https://github.com/user-attachments/assets/f3642ef2-16a3-440d-a6ba-8ebeb45eb2ba width="140px" />
 <!--   <a href=https://muskit.net><b>my place</b></a> -->
 </p>
+
 
 ## ✨ Things I made!
 
