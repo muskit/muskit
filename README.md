@@ -3,16 +3,6 @@
 <!--   <a href=https://muskit.net><b>my place</b></a> -->
 </p>
 
-## 🏗️ Things I'm making...
-
-### Quote Tweet Unnester
-Coming soon...
-
-### A useful game information Discord bot
-Coming soon...
-
-
-
 ## ✨ Things I made!
 
 ### [H3VR Mod: Take and Hold Quality of Life Improvements](https://github.com/muskit/H3VR-TNH-Quality-of-Life-Improvements)
@@ -27,6 +17,16 @@ No longer active.
 ### [muskit.net](https://muskit.net)
 My personal website built in Svelte. (Warning: **not** a frontend developer)  
 ![Screenshot 2024-03-15 005226](https://github.com/muskit/muskit/assets/15199219/6c91519c-d411-4848-93c1-525fee386e81)
+
+
+## 🏗️ Things I'm working on...
+
+### Quote Tweet Unnester
+Coming soon...
+
+### A useful game information Discord bot
+Coming soon...
+
 
 ## About me
 - 🕰️ Likes to mess with retro electronics (from MS-DOS computers to iPods)
