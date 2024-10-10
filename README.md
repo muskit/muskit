@@ -1,5 +1,5 @@
 <p float="left">
-  <a href=https://muskit.net>
+  <a href=https://muskit.net target="_blank" rel="noreferrer noopener">
     <img src=https://github.com/user-attachments/assets/f3642ef2-16a3-440d-a6ba-8ebeb45eb2ba width="140px" />
   </a>
 </p>
