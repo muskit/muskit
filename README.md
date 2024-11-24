@@ -17,7 +17,7 @@ No longer active.
 ![Screenshot_20230912_235245](https://github.com/muskit/muskit/assets/15199219/0359fb26-8a48-4698-9b78-66d7d852099e)
 
 ### [muskit.net](https://muskit.net)
-My personal website built in Svelte. (Warning: **not** a frontend developer)  
+My personal website built in Svelte.  
 ![Screenshot 2024-03-15 005226](https://github.com/muskit/muskit/assets/15199219/6c91519c-d411-4848-93c1-525fee386e81)
 
 
