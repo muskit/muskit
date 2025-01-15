@@ -1,5 +1,4 @@
-<p float="left">
-  <a href=https://muskit.net target="_blank" rel="noreferrer noopener">
+<p float="left">  <a href=https://muskit.net target="_blank" rel="noreferrer noopener">
     <img src=https://github.com/user-attachments/assets/f3642ef2-16a3-440d-a6ba-8ebeb45eb2ba width="140px" />
   </a>
 </p>
@@ -14,11 +13,6 @@ A [modification](https://h3vr.thunderstore.io/package/muskit/TNH_Quality_of_Life
 ### [muskit.net](https://muskit.net)
 My personal website built in Svelte.  
 ![Screenshot 2024-03-15 005226](https://github.com/muskit/muskit/assets/15199219/6c91519c-d411-4848-93c1-525fee386e81)
-
-### [NijiHolo EN/ID Interacts](https://github.com/muskit/NijiHolo_EN_ID_Bot)
-A [Twitter bot](https://twitter.com/NijiHolo_EN_ID) that highlights interactions between two of the largest Virtual YouTuber projects in the world.
-No longer active.  
-![Screenshot_20230912_235245](https://github.com/muskit/muskit/assets/15199219/0359fb26-8a48-4698-9b78-66d7d852099e)
 
 
 ## 🏗️ Things I'm working on...
