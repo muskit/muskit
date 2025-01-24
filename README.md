@@ -10,8 +10,8 @@
 A [modification](https://h3vr.thunderstore.io/package/muskit/TNH_Quality_of_Life_Improvements/) for VR game [_Hot Dogs, Horseshoes, and Hand Grenades_](http://h3vr.com/) that adds various quality of life features.  
 ![Modpage thumbnail](https://raw.githubusercontent.com/muskit/H3VR-TNH-Quality-of-Life-Improvements/main/Assets/thumbnail%20better.png)
 
-### [HoyoCodes](https://discord.com/oauth2/authorize?client_id=1268957352581927022)
-A *Discord* bot that that keeps you up to date on new codes for *HoYoverse* games.
+### [HoYoCodes](https://github.com/muskit/hoyocodes-discord-bot)
+A [*Discord* bot](https://top.gg/bot/1268957352581927022) that that keeps you up to date on new codes for *HoYoverse* games.
 ![Screenshot of a code ticker](https://github.com/user-attachments/assets/94cf1e2e-fd53-4e6d-aecd-34058fc50ff9)
 
 
