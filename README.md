@@ -22,6 +22,6 @@ A [*Discord* bot](https://top.gg/bot/1268957352581927022) that that keeps you up
 
 ## About me
 - 🕰️ Likes to mess with retro electronics (from MS-DOS computers to iPods)
-- 🎵 Listens to 2000s music (Coldplay, Avril Lavigne, Sunny Day Real Estate, Sum 41).
-- 🕹️ Loves music games (esp. at arcades), beginner to simracing
+- 🎵 Fan of y2k music (Coldplay, Avril Lavigne, Sunny Day Real Estate, etc)
+- 🕹️ Beginning simracing, loves music games (esp. at arcades)
 - 👶 First experienced programming with Java (Minecraft modding) and BASIC (DSiWare "Petit Computer") in 2014
