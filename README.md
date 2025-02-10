@@ -16,13 +16,13 @@ A [modification](https://h3vr.thunderstore.io/package/muskit/TNH_Quality_of_Life
 ![Modpage thumbnail](https://raw.githubusercontent.com/muskit/H3VR-TNH-Quality-of-Life-Improvements/main/Assets/thumbnail%20better.png)
 
 
-## 🏗️ Things I'm working on...
+## 🏗️ Things I'm working on
 
-### TBA...
+### TBD...
 
 
 ## About me
 - 🕰️ Likes to mess with retro electronics (from MS-DOS computers to iPods)
 - 🎵 Fan of y2k music (Coldplay, Avril Lavigne, Sunny Day Real Estate, etc)
-- 🕹️ Beginning simracing, loves music games (esp. at arcades)
+- 🕹️ Beginning simracing, loves music games
 - 👶 First experienced programming with Java (Minecraft modding) and BASIC (DSiWare "Petit Computer") in 2014
