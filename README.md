@@ -18,7 +18,8 @@ A [modification](https://h3vr.thunderstore.io/package/muskit/TNH_Quality_of_Life
 
 ## 🏗️ Things I'm working on
 
-### TBD...
+### An action-packed typing game concept 
+![image](https://github.com/user-attachments/assets/473c77be-48b6-474b-9bdb-852678cc7070)
 
 
 ## About me
